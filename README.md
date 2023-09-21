@@ -1,4 +1,3 @@
-##STUDY
 <a name="readme-top"></a>
 ## React 
 
